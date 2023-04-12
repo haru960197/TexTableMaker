@@ -1,0 +1,15 @@
+\begin{table}[H]
+	\caption{-----}
+	\label{-----}
+	\centering
+	\begin{tabular}{SSSS|S|...}
+		\hline
+		{} & {} & {} & ...
+		\hline
+			aaa & bbb & 23.54 & 324 \\
+			1 & 2 & 3 \\
+			45 & 6 \\
+			2 & 4 & 3 \\
+		\hline
+	\end{tabular}
+\end{table}

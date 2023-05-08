@@ -31,7 +31,7 @@ int main() {
     intended_print("\\begin{tabular}{SSSS|S|...}\n");
     indent_num++;
     intended_print("\\hline\n");
-    intended_print("{} & {} & {} & ...\n");
+    intended_print("{} & {} & {} & ... \\\\\n");
     intended_print("\\hline\n");
     indent_num++;
     while (fgets(line, MAX_RAW, input) != NULL) {
